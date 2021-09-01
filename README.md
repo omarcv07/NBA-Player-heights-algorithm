@@ -8,6 +8,6 @@ In order to make it works:
 
 If you want to test the algorithm with different heights:
 
- - Modify the line 44 of the index.js file and change the number to another
+ - Modify the line 44 of the index.js file and change the number value to another
  - Save the file
  - Run node index.js
